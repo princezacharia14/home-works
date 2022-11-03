@@ -1,0 +1,14 @@
+body
+{
+    background-color: red;
+}
+h1
+{
+    color: yellow;
+}
+p
+{
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+   margin-left: 50px;    
+}

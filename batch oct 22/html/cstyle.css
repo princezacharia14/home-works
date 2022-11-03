@@ -1,0 +1,15 @@
+.head1
+{
+    color: blue;
+    font-style: italic;
+}
+.head2
+{
+    color: brown;
+}
+.head-border
+{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 5px;
+}
